@@ -72,10 +72,10 @@ This write up is a work in progress, as time permits individual challenge write 
 </details>
 
 <details>
-  <summary>Binary Exploitation (4 solutions)</summary>
+  <summary>Binary Exploitation (5 solutions)</summary>
 
 * **[babygame01](Binary%20Exploitation/babygame01/babygame01.md) (Solved)**
-* two-sum (Solved)
+* **[two-sum](Binary%20Exploitation/two-sum/two-sum.md) (Solved)**
 * babygame02 (Solved)
 * **[hijacking](Binary%20Exploitation/hijacking/hijacking.md) (Solved)**
 * **[tic-tac](Binary%20Exploitation/tic-tac/tic-tac.md) (Solved)**
