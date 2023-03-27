@@ -72,14 +72,14 @@ This write up is a work in progress, as time permits individual challenge write 
 </details>
 
 <details>
-  <summary>Binary Exploitation (3 solutions)</summary>
+  <summary>Binary Exploitation (4 solutions)</summary>
 
 * **[babygame01](Binary%20Exploitation/babygame01/babygame01.md) (Solved)**
 * two-sum (Solved)
 * babygame02 (Solved)
 * **[hijacking](Binary%20Exploitation/hijacking/hijacking.md) (Solved)**
 * **[tic-tac](Binary%20Exploitation/tic-tac/tic-tac.md) (Solved)**
-* VNE (Solved)
+* **[VNE](Binary%20Exploitation/VNE/VNE.md) (Solved)**
 * Horetrack (Unsolved - Progress Writeup)
 
 </details>
