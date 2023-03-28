@@ -1,18 +1,31 @@
-# picoCTF-2023-Writeup
+# picoCTF 2023
 
+## Overview ##
 
-This write up is a work in progress, as time permits individual challenge write ups will be added for all challenges marked as `Solved` or `(Unsolved - Progress Writeup)`, which will document how far I got in attempting to solve the challenge.
+I participated in the [picoCTF](www.picoctf.org) 2023 competition as an individual competing in the Global category, organised by [Carnegie Mellon University](https://cmu.edu/), which ran from Mar 15 2023 to Mar 29 2023. 
+
+This is a write up of the challenges solved during the event.
+
+## Progress ##
+
+![Screenshot of a challenge progress during event](event-score-progression.png)
+
+## Challenges ##
+
+**This event write up is a work in progress.**
+
+As time permits I'll be adding further individual challenge write ups for all those marked as `(Solved)`, based on my notes taken during the event. Additionally there may be the odd challenge that I failed to solve but want to document my progress, marked `(Unsolved - Progress Writeup)`.
 
 <details>
-  <summary>Web Exploitation</summary>
+  <summary>Binary Exploitation (6 solutions)</summary>
 
-* findme (Solved)
-* MatchTheRegex (Solved)
-* SOAP (Unsolved)
-* More SQLi (Unsolved)
-* Java Code Analysis!?! (Unsolved)
-* cancri-sp (Unsolved)
-* msfroggenerator2 (Unsolved)
+* **[babygame01](Binary%20Exploitation/babygame01/babygame01.md) (Solved)**
+* **[two-sum](Binary%20Exploitation/two-sum/two-sum.md) (Solved)**
+* **[babygame02](Binary%20Exploitation/babygame01/babygame02.md) (Solved)**
+* **[hijacking](Binary%20Exploitation/hijacking/hijacking.md) (Solved)**
+* **[tic-tac](Binary%20Exploitation/tic-tac/tic-tac.md) (Solved)**
+* **[VNE](Binary%20Exploitation/VNE/VNE.md) (Solved)**
+* **[Horetrack](Binary%20Exploitation/Horsetrack/Horsetrack.md) (Unsolved - Progress Writeup)**
 
 </details>
 
@@ -30,12 +43,39 @@ This write up is a work in progress, as time permits individual challenge write 
 </details>
 
 <details>
-  <summary>Reverse Engineering</summary>
+  <summary>Forensics (2 solutions)</summary>
+
+* **[hideme](Forensics/hideme/hideme.md) (Solved)**
+* PcapPoisoning (Solved)
+* who is it (Solved)
+* FindAndOpen (Solved)
+* **[MSB](Forensics/MSB/MSB.md) (Solved)**
+* Invisible WORDs (Unsolved)
+* UnforgottenBits (Unsolved)
+
+</details>
+
+<details>
+  <summary>General Skills (2 solutions)</summary>
+
+* chrono (Solved)
+* money-ware (Solved)
+* Permissions (Solved)
+* repetitions (Solved)
+* Rules 2023 (Solved)
+* **[useless](General%20Skills/useless/useless.md) (Solved)**
+* **[Special](General%20Skills/Special/Special.md) (Solved)**
+* Specialer (Unsolved)
+
+</details>
+
+<details>
+  <summary>Reverse Engineering (3 solutions)</summary>
 
 * Ready Gladiator 0 (Solved)
-* Reverse (Solved)
-* Safe Opener 2 (Solved)
-* timer (Solved)
+* **[Reverse](Reverse%20Engineering/Reverse/Reverse.md) (Solved)**
+* **[Safe Opener 2](Reverse%20Engineering/Safe%20Opener%202/Safe-Opener-2.md) (Solved)**
+* **[timer](Reverse%20Engineering/timer/timer.md) (Solved)**
 * Virtual Machine 0 (Unsolved)
 * No way out (Unsolved)
 * Ready Gladiator 1 (Solved)
@@ -45,43 +85,16 @@ This write up is a work in progress, as time permits individual challenge write 
 </details>
 
 <details>
-  <summary>Forensics</summary>
+  <summary>Web Exploitation (2 solutions)</summary>
 
-* hideme (Solved)
-* PcapPoisoning (Solved)
-* who is it (Solved)
-* FindAndOpen (Solved)
-* MSB (Solved)
-* Invisible WORDs (Unsolved)
-* UnforgottenBits (Unsolved)
-
-</details>
-
-<details>
-  <summary>General Skills</summary>
-
-* chrono (Solved)
-* money-ware (Solved)
-* Permissions (Solved)
-* repetitions (Solved)
-* Rules 2023 (Solved)
-* useless (Solved)
-* Special (Solved)
-* Specialer (Unsolved)
+* **[findme](Web%20Exploitation/findme/findme.md) (Solved)**
+* **[MatchTheRegex](Web%20Exploitation/MatchTheRegex/MatchTheRegex.md) (Solved)**
+* SOAP (Unsolved)
+* More SQLi (Unsolved)
+* Java Code Analysis!?! (Unsolved)
+* cancri-sp (Unsolved)
+* msfroggenerator2 (Unsolved)
 
 </details>
 
-<details>
-  <summary>Binary Exploitation (5 solutions)</summary>
-
-* **[babygame01](Binary%20Exploitation/babygame01/babygame01.md) (Solved)**
-* **[two-sum](Binary%20Exploitation/two-sum/two-sum.md) (Solved)**
-* babygame02 (Solved)
-* **[hijacking](Binary%20Exploitation/hijacking/hijacking.md) (Solved)**
-* **[tic-tac](Binary%20Exploitation/tic-tac/tic-tac.md) (Solved)**
-* **[VNE](Binary%20Exploitation/VNE/VNE.md) (Solved)**
-* Horetrack (Unsolved - Progress Writeup)
-
-</details>
-
-Full solutions are provided in the write ups to complete the challenges, however the actual flag values have been witheld.
+Full solutions to the challenges are provided in the write ups, however the actual flag values are witheld.
