@@ -21,7 +21,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 
 * **[babygame01](Binary%20Exploitation/babygame01/babygame01.md) (Solved)**
 * **[two-sum](Binary%20Exploitation/two-sum/two-sum.md) (Solved)**
-* **[babygame02](Binary%20Exploitation/babygame01/babygame02.md) (Solved)**
+* **[babygame02](Binary%20Exploitation/babygame02/babygame02.md) (Solved)**
 * **[hijacking](Binary%20Exploitation/hijacking/hijacking.md) (Solved)**
 * **[tic-tac](Binary%20Exploitation/tic-tac/tic-tac.md) (Solved)**
 * **[VNE](Binary%20Exploitation/VNE/VNE.md) (Solved)**
