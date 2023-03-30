@@ -30,11 +30,11 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Cryptography</summary>
+  <summary>Cryptography (2 solutions)</summary>
 
 * HideToSee (Unsolved)
-* ReadMyCert (Solved)
-* rotation (Solved)
+* **[ReadMyCert](Cryptography/ReadMyCert/ReadMyCert.md) (Solved)**
+* **[rotation](Cryptography/rotation/rotation.md) (Solved)**
 * PowerAnalysis: Warmup (Unsolved)
 * PowerAnalysis: Part 1 (Unsolved)
 * SRA (Unsolved)
