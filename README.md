@@ -65,7 +65,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * Rules 2023 (Solved)
 * **[useless](General%20Skills/useless/useless.md) (Solved)**
 * **[Special](General%20Skills/Special/Special.md) (Solved)**
-* Specialer (Unsolved)
+* **[Specialer](General%20Skills/Specialer/Specialer.md) (Solved)**
 
 </details>
 
