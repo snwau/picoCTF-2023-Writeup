@@ -43,7 +43,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Forensics (2 solutions)</summary>
+  <summary>Forensics (5 solutions)</summary>
 
 * **[hideme](Forensics/hideme/hideme.md) (Solved)**
 * **[PcapPoisoning](Forensics/PcapPoisoning/PcapPoisoning.md) (Solved)**
