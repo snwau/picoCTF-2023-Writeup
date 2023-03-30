@@ -30,9 +30,9 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>Cryptography (2 solutions)</summary>
+  <summary>Cryptography (3 solutions)</summary>
 
-* HideToSee (Unsolved)
+* **[HideToSee](Cryptography/HideToSee/HideToSee.md) (Solved)**
 * **[ReadMyCert](Cryptography/ReadMyCert/ReadMyCert.md) (Solved)**
 * **[rotation](Cryptography/rotation/rotation.md) (Solved)**
 * PowerAnalysis: Warmup (Unsolved)
@@ -65,7 +65,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 * Rules 2023 (Solved)
 * **[useless](General%20Skills/useless/useless.md) (Solved)**
 * **[Special](General%20Skills/Special/Special.md) (Solved)**
-* Specialer (Unsolved)
+* **[Specialer](General%20Skills/Specialer/Specialer.md) (Solved)**
 
 </details>
 
