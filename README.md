@@ -46,9 +46,9 @@ As time permits I'll be adding further individual challenge write ups for all th
   <summary>Forensics (2 solutions)</summary>
 
 * **[hideme](Forensics/hideme/hideme.md) (Solved)**
-* PcapPoisoning (Solved)
-* who is it (Solved)
-* FindAndOpen (Solved)
+* **[PcapPoisoning](Forensics/PcapPoisoning/PcapPoisoning.md) (Solved)**
+* **[who is it](Forensics/who%20is%20it/who-is-it.md) (Solved)**
+* **[FindAndOpen](Forensics/FindAndOpen/FindAndOpen.md) (Solved)**
 * **[MSB](Forensics/MSB/MSB.md) (Solved)**
 * Invisible WORDs (Unsolved)
 * UnforgottenBits (Unsolved)
