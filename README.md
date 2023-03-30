@@ -56,7 +56,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (2 solutions)</summary>
+  <summary>General Skills (3 solutions)</summary>
 
 * chrono (Solved)
 * money-ware (Solved)
