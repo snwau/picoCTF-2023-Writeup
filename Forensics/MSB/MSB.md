@@ -21,13 +21,21 @@ Rather than writing a program to do this analysis, a quick google search found a
     $ wget https://artifacts.picoctf.net/c/306/Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png
 
     $ pip install Pillow
-    $ get https://raw.githubusercontent.com/Pulho/sigBits/master/sigBits.py
+    $ wget https://raw.githubusercontent.com/Pulho/sigBits/master/sigBits.py
 
-    $ python3 sigBits.py -t=msb Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png 
-    $ subl outputSB.txt
+    $ python3 sigBits.py -t=msb Ninja-and-Prince-Genji-Ukiyoe-Utagawa-Kunisada.flag.png
    
 ## Solution ##
  
 The generated output `outputSB.txt` was searched for `picoCTF` locating the flag (actual flag value redacted for the purposes of this write up) :
 
     picoCTF{........redacted........}
+
+## Other Useful Information ##
+
+Flag is located at offset `0x3CD6E` in the file, viewed from a Hex exitor such as [ImHex](https://imhex.werwolv.net), if you having trouble locating it within a text editor.
+
+Alternatively, grep can be used and the output restricted to the matched string and using regex to add 50 characters after the "picoCTF" prefix
+
+    $ cat outputSB.txt | grep -o -E "picoCTF.{0,50}"
+    picoCTF{........redacted........}"Thou h

@@ -58,7 +58,7 @@ As time permits I'll be adding further individual challenge write ups for all th
 <details>
   <summary>General Skills (2 solutions)</summary>
 
-* chrono (Solved)
+* **[chrono](General%20Skills/chrono/chrono.md) (Solved)**
 * money-ware (Solved)
 * Permissions (Solved)
 * repetitions (Solved)
