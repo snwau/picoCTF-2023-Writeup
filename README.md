@@ -56,13 +56,13 @@ As time permits I'll be adding further individual challenge write ups for all th
 </details>
 
 <details>
-  <summary>General Skills (5 solutions)</summary>
+  <summary>General Skills (7 solutions)</summary>
 
 * **[chrono](General%20Skills/chrono/chrono.md) (Solved)**
-* money-ware (Solved)
+* **[money-ware](General%20Skills/money-ware/money-ware.md) (Solved)**
 * **[Permissions](General%20Skills/Permissions/Permissions.md) (Solved)**
 * **[repetitions](General%20Skills/repetitions/repetitions.md) (Solved)**
-* Rules 2023 (Solved)
+* **[Rules 2023](General%20Skills/Rules%202023/Rules%202023.md) (Solved)**
 * **[useless](General%20Skills/useless/useless.md) (Solved)**
 * **[Special](General%20Skills/Special/Special.md) (Solved)**
 * Specialer (Unsolved)
